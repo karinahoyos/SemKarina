@@ -69,7 +69,7 @@ Proyecto de Trabajo
 \end_layout
 
 \begin_layout Section*
-Tema: Geometria Proyectiva para las Construcciones con Regla y Compás Oxidado
+Tema: Geometría Proyectiva para las Construcciones con Regla y Compás Oxidado
 \end_layout
 
 \begin_layout Subsection*
@@ -85,12 +85,12 @@ Fundamentación
 \end_layout
 
 \begin_layout Standard
-Este trabajo propone estudiar la geometría proyectiva para las construcciones
- con regla y compás oxidado, y presentar una secuencia de acciones que pueden
+Este trabajo propone estudiar la Geometría Proyectiva para las Construcciones
+ con Regla y Compás Oxidado, y presentar una secuencia de acciones que pueden
  resultar de base para enseñar estos conceptos.
  Sabemos que la geometría proyectiva sirve para tratar problemas de perspectivas
  y que había sido usada primeramente por pintores renacentistas.
- la idea intuitiva es relativamente sencilla: el punto del infinito 
+ La idea intuitiva es relativamente sencilla: el punto del infinito 
 \begin_inset Quotes eld
 \end_inset
 
@@ -110,22 +110,22 @@ Planteo del Problema
 \begin_layout Standard
 Las construcciones con Regla y Compás oxidado fueron tratadas inicialmente
  por Steiner, quien originalmente intento demostrar que todas las construcciones
- (con regla y compas) podian realizarse solamente con una regla.
+ (con regla y compas) podían realizarse solamente con una regla.
  Esa empresa resulto inicialmente un fracaso.
- Sin embargo llego a demostrar que todas las contrucciones que podian hacerse
- con regla y compas podian hacerse con el uso de una regla y de un compas
- oxidado o fijo, o con una regla y una sola aplicacion de un compas.
- para llegar a estos resultados un camino elegante es profundizar en el
- estudio de la geometria proyectva.
+ Sin embargo llego a demostrar que todas las construcciones que podían hacerse
+ con regla y compas podían hacerse con el uso de una regla y de un compas
+ oxidado o fijo, o con una regla y una sola aplicación de un compas.
+ Para llegar a estos resultados un camino elegante es profundizar en el
+ estudio de la geometría proyectiva.
 \end_layout
 
 \begin_layout Standard
-Un problema basico cuya resolucion implica resultados de la geometria proyectiva
+Un problema básico cuya resolución implica resultados de la geometría proyectiva
  es la equivalencia entre encontrar el punto medio de cualquier segmento
  y trazar una paralela a una recta cualquiera desde cualquier punto exterior
  a esta.
- con la justificacion de este prboblema podremos encarar problemas de construcci
-ones mas complejos.
+ Con la justificación de este problema podremos encarar problemas de construccio
+nes mas complejos.
 \end_layout
 
 \begin_layout Section*
@@ -133,12 +133,13 @@ Objetivos
 \end_layout
 
 \begin_layout Itemize
-Dar los fundamentos proyestivos para las Construcciones con Regla y Compás
+Dar los fundamentos proyectivos para las Construcciones con Regla y Compás
  Oxidado.
 \end_layout
 
 \begin_layout Itemize
-
+Diseñar un esquema conceptual detallado de la aplicación de la geometría
+ proyectiva.
 \end_layout
 
 \begin_layout Section*
@@ -146,8 +147,9 @@ Metodología
 \end_layout
 
 \begin_layout Standard
-Para la Fundamentación de las construcciones con regla y compás, necesitamos
- estudiar las Extensiones de Cuerpo y la Teoría de Galois.
+Para la Fundamentación proyectiva de las construcciones con regla y compás
+ oxidado, necesitamos estudiar ciertas propiedades de objetos de la geometría
+ proyectiva, por ejemplo los cuadrivértices, las cónicas y las polares.
 \end_layout
 
 \begin_layout Section*
@@ -155,36 +157,11 @@ Cronograma Tentativo
 \end_layout
 
 \begin_layout Subsection*
-Abril
-\end_layout
-
-\begin_layout Standard
-Análisis Bibliográfico
-\begin_inset CommandInset citation
-LatexCommand cite
-key "ivorra"
-
-\end_inset
-
-, particularmente del Capítulo V de libro Algebra de Hungerford
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Hungerford"
-
-\end_inset
-
-.
- Estudio de los antecedentes históricos del tema a desarrollar.
- 
-\end_layout
-
-\begin_layout Subsection*
 Mayo
 \end_layout
 
 \begin_layout Standard
-Continuación del estudio del Capítulo V de libro Algebra de Hungerford.
- Creación de nuevas herramientas en Geogebra.
+Estudio del Capítulo V de libro Geometría Superior de Efimov.
 \end_layout
 
 \begin_layout Subsection*
@@ -192,8 +169,9 @@ Junio
 \end_layout
 
 \begin_layout Standard
-Construcciones en Geogebra de los Polígonos Regulares.
- Redacción de la fundamentación algebraica del problema.
+Continuación con la lectura y el análisis de este libro.
+ búsqueda y compilación de material bibliográfico necesario para continuar
+ el estudio.
 \end_layout
 
 \begin_layout Subsection*
@@ -201,8 +179,8 @@ Agosto
 \end_layout
 
 \begin_layout Standard
-Análisis de los Métodos utilizados en la construcción geométrica de los
- Polígonos Regulares estudiados.
+Primeras construcciones con regla y compás oxidado usando propiedades de
+ los cuadrivértices.
 \end_layout
 
 \begin_layout Subsection*
@@ -210,8 +188,7 @@ Septiembre
 \end_layout
 
 \begin_layout Standard
-Investigación sobre la metodología de construcción del polígono regular
- de 257 lados.
+Construciones mas sofisticadas con regla y compás fijo
 \end_layout
 
 \begin_layout Subsection*
@@ -219,10 +196,7 @@ Octubre
 \end_layout
 
 \begin_layout Standard
-Análisis de la construcción de poligonos regulares con número de lados no
- primos (por ejemplo: el pentadecágono regular o el polígono regular de
- 51 lados).
- 
+Estudio de cónicas proyectivas
 \end_layout
 
 \begin_layout Subsection*
@@ -238,25 +212,16 @@ Conclusiones del tema estudiado.
 \labelwidthstring Bibliografía
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
-label "Iv"
-key "Ivorra"
+label "Ef"
+key "Efimov"
 
 \end_inset
 
-Geometría.
- Carlos Ivorra Castillo
-\end_layout
-
-\begin_layout Bibliography
-\labelwidthstring Bibliografía
-\begin_inset CommandInset bibitem
-LatexCommand bibitem
-label "Hu"
-key "Hungerford"
-
-\end_inset
-
-Algebra
+ N.
+ V.
+ Geometría Superior.
+ Editorial Mir.
+ 1984
 \end_layout
 
 \end_body
